@@ -9,6 +9,7 @@ I'm **[gouthamkrishnan vp]**, Aspiring Data Analyst with strong knowledge in SQL
 
 - **Name**: Gouthamkrishnan vp
 - **From**: India
+- 
 -Skilled in SQL, Python, Excel, and Power BI for analyzing and visualizing data.
 -Passionate about transforming raw data into actionable insights and supporting data-driven decision making.
 -Currently exploring advanced data analytics techniques, DAX, and data modeling concepts.
