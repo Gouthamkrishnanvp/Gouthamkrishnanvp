@@ -43,7 +43,7 @@ Currently exploring advanced data analytics techniques, DAX, and data modeling c
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[car sales analysis](https://github.com/)**    |Car Sales Analysis – An interactive dashboard analyzing sales trends, revenue performance, and top-performing regions to generate data-driven insights.|
+| **[car sales analysis](https://github.com/Gouthamkrishnanvp/car-sales-analysis)**    |Car Sales Analysis – An interactive dashboard analyzing sales trends, revenue performance, and top-performing regions to generate data-driven insights.|
 | **[Project 2](https://github.com/)**    | Short Description |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
