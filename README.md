@@ -44,7 +44,7 @@ Currently exploring advanced data analytics techniques, DAX, and data modeling c
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[car sales analysis](https://github.com/Gouthamkrishnanvp/car-sales-analysis)**    |Car Sales Analysis – An interactive dashboard analyzing sales trends, revenue performance, and top-performing regions to generate data-driven insights.|
-| **[Project 2](https://github.com/)**    | Short Description |
+| **[TCS OHLCV DASHBOARD](https://github.com/Gouthamkrishnanvp/TCS-OHLCV-Dashboard)**    |An interactive Power BI dashboard analyzing the stock performance of Tata Consultancy Services (TCS) using OHLCV (Open, High, Low, Close, Volume) data for 2025–2026.|
 | **[Project 3](https://github.com/)**    | Short Description | 
 
 ---
